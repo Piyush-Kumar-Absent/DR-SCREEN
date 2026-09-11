@@ -1,0 +1,6 @@
+{
+  "name": "DR Screen - AI Retinopathy Assistant",
+  "description": "Explainable AI-assisted screening tool for Diabetic Retinopathy in rural and community clinics, featuring fundus analysis, lesion heatmaps, and referral workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
